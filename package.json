@@ -1,0 +1,23 @@
+{
+  "name": "zipdigest",
+  "version": "1.0.0",
+  "description": "Generate digests and manifests of go module zip contents",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrew Nesbitt",
+  "license": "MIT",
+  "dependencies": {
+    "node-stream-zip": "^1.13.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/forestpm/zipdigest.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/forestpm/zipdigest/issues"
+  },
+  "homepage": "https://github.com/forestpm/zipdigest#readme"
+}
